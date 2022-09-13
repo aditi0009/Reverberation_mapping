@@ -1,5 +1,6 @@
 -> In this repository, the folder raw_data contains the raw data fits files
 of the spectrum of each day of different RMIDS - 101,191,229,267,272,694,772 and 840.
+
 -> The folder QA_other contains the spectral analysis of each observation of different
 RMIDs using PyQSOFit.
 
